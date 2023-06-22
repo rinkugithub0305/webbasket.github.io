@@ -1600,6 +1600,7 @@ textarea {
 
 .service-para {
     margin-top: 20px;
+    text-align: center;
 }
 
 .service-para-2 {
@@ -1697,10 +1698,12 @@ textarea {
 
 .team-para-1 {
     margin-top: 25px;
+    text-align: center;
 }
 
 .team-para-2 {
     margin-top: 6px;
+    text-align: center;
 }
 
 /* price  */
@@ -2042,7 +2045,7 @@ textarea {
     .service-para {
         margin-top: 5px;
         font-size: 15px;
-        text-align: justify;
+        text-align: center;
     }
 
     .service-para-2 {
@@ -2411,6 +2414,7 @@ textarea {
 
     .service-para {
         margin-top: 10px;
+        text-align: center;
     }
 
     .service-para-2 {
